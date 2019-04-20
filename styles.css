@@ -1,0 +1,21 @@
+body {
+  font: sans-serif;
+}
+
+h1 {
+  font-family: 'Roboto', sans-serif;
+}
+
+h2 {
+  font-family: 'Cabin', sans-serif;
+}
+
+.firstdiv {
+  background: url(images/bg-hero-desktop.svg);
+}
+
+.thirddiv {
+  background-color: #022c43;
+  color: white;
+  font-family: 'Cabin', sans-serif;
+}
